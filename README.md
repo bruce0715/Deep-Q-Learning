@@ -8,3 +8,5 @@ Please use [dqn_images.py](https://github.com/bruce0715/Deep-Q-Learning/blob/mas
 If the input is vectors:<br/>
 Please use [dqn_states.py](https://github.com/bruce0715/Deep-Q-Learning/blob/master/dqn_states.py)
 
+For the result:<br/>
+Please see the [report.pdf](https://github.com/bruce0715/Deep-Q-Learning/blob/master/report.pdf)
