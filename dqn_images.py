@@ -1,7 +1,6 @@
 ##########################################
-# Stat232A&CS266A Project 3:
 # Solving CartPole with Deep Q-Network （Images Input）
-# Author: Shuai Zhu
+# Author: Bruce Zhu
 ##########################################
 
 import argparse
